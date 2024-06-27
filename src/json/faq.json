@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "question":"How does Framer motion is performant than other packages?",
+        "answer":"Framer Motion optimizes animation performance through the use of a lightweight render tree, minimizing layout thrashing and maximizing GPU acceleration."
+    },
+    {
+        "id":2,
+        "question":"How framer motion works?",
+        "answer":"Animations are done by WAAPI, It doesn't affect the main thread of javascript and framer motion engine handles brilliantly whether it should be handled by CPU or by GPU"
+    },
+    {
+        "id":3,
+        "question":"Does framer motion provides 3D models mounting?",
+        "answer":"Yes, It extensively uses the react-three-fiber will be properly mounted and unmounted"
+    }
+]

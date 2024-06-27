@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "img":"https://cloud.appwrite.io/v1/storage/buckets/66649165003829954a05/files/66649184000ec7367bf3/view?project=66649150001b85c94326&mode=admin",
+        "title":"Reduce Bundle Size",
+        "description":"To reduce bundling size with Framer Motion, import specific components and features directly instead of the entire library."
+    },
+    {
+        "id":2,
+        "img":"https://cloud.appwrite.io/v1/storage/buckets/66649165003829954a05/files/666491790023efe52d2a/view?project=66649150001b85c94326&mode=admin",
+        "title":"Accessibility",
+        "description":"Toggling animation based on the users preference using framer motion hook by wrapping the layout.tsx"
+    },
+    {
+        "id":3,
+        "img":"https://cloud.appwrite.io/v1/storage/buckets/66649165003829954a05/files/6664918b001d3018239a/view?project=66649150001b85c94326&mode=admin",
+        "title":"Plenty of Hooks",
+        "description":"Framer motion provides numerous hooks that developers don't need to take care on animation using css"
+    }
+]
